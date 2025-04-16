@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0136-single-number](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0007-reverse-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
