@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0136-single-number) |
 ## Binary Search
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
 | ------- |
