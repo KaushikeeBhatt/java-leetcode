@@ -55,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0169-majority-element) |
 ## Greedy
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
