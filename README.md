@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0190-reverse-bits) |
 | [0461-hamming-distance](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0461-hamming-distance) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2659-number-of-even-and-odd-bits](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 ## Two Pointers
 |  |
