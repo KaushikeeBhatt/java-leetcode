@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0137-single-number-ii) |
+| [0461-hamming-distance](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0461-hamming-distance) |
 ## Two Pointers
 |  |
 | ------- |
