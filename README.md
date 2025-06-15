@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
