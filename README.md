@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0204-count-primes) |
+| [2032-largest-odd-number-in-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0011-container-with-most-water) |
+| [2032-largest-odd-number-in-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
