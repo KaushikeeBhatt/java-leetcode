@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0812-rotate-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0812-rotate-string) |
 ## Linked List
 |  |
 | ------- |
