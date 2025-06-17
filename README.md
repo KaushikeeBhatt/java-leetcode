@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
