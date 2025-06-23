@@ -4,15 +4,17 @@ class Solution {
         for(int i=0;i<k;i++){
             sum+=card[i];
         }
-        int r=sum;
-        int l=0;
+        // int r=sum;
+        // int l=0;
         int max=sum;
-        int n=card.length;
+        int n=card.length-1;
         for(int i=k-1;i>=0;i--){
-            r-=card[i];
-            l+=card[n-1];
+            // r-=card[i];
+            // l+=card[n-1];
+            // n--;
+            sum-=card[i];
+            sum+=card[n];
             n--;
-            sum=r+l;
             max=Math.max(max,sum);
         }
         return max;
