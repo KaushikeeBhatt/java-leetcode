@@ -1,14 +1,17 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        int n= nums.length;
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                int sum=nums[i]+nums[j];
-                if(sum==target){
-                    return new int[]{i,j};
+        int[] arr=new int[2];
+        for(int i=0;i<nums.length;i++){
+            int t=target-nums[i];
+            for(int j=i+1;j<nums.length;j++){
+                if(nums[j]==t){
+                    arr[1]=j;
+                    arr[0]=i;
+                    return arr;
                 }
             }
         }
-        return new int[]{0};
+        return arr;
+
     }
 }
