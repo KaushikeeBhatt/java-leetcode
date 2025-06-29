@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0242-valid-anagram) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Greedy
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Stack
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0169-majority-element) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## String Matching
 |  |
 | ------- |
