@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0461-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2659-number-of-even-and-odd-bits](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2659-number-of-even-and-odd-bits) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
