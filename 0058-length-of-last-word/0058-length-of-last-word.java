@@ -4,7 +4,6 @@ class Solution {
         if(!s.contains(" ")){
             return s.length();
         }
-        int i=s.indexOf(" ");
-        return lengthOfLastWord(s.substring(i+1));
+        return lengthOfLastWord(s.substring(s.indexOf(" ")+1));
     }
 }
