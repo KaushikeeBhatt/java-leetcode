@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0020-valid-parentheses) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0231-power-of-two) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
