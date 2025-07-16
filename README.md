@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0204-count-primes) |
+| [0496-next-greater-element-i](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0496-next-greater-element-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0496-next-greater-element-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Greedy
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0010-regular-expression-matching) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
