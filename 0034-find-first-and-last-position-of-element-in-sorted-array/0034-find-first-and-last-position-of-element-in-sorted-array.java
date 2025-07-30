@@ -1,13 +1,33 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int[] a=new int[2];
-        Arrays.fill(a,-1);
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]==target){ a[0]=i;break;}
+        if(nums.length==0) return new int[]{-1,-1};
+        int s=0;
+        int index=-1;
+        int e= nums.length-1;
+        while(s<=e){
+            int mid=(s+e)/2;
+            if(nums[mid]>=target){
+                e=mid-1;
+            }
+            else{
+                s=mid+1;
+            }
+            if(nums[mid]==target) index=mid;
         }
-        for(int i=nums.length-1;i>=0;i--){
-            if(nums[i]==target){ a[1]=i;break;}
+        int i=index;
+        int l=0;int h=nums.length-1;
+        while(l<=h){
+            int mid=(h+l)/2;
+            if(nums[mid]<=target){
+                l=mid+1;
+            }
+            else{
+                h=mid-1;
+            }
+            if(nums[mid]==target) index = mid;
         }
-        return a;
+        int j=index;
+        return new int[]{i,j};
+            
     }
 }
