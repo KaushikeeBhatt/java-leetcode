@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
