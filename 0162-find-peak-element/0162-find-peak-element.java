@@ -1,12 +1,17 @@
 class Solution {
     public int findPeakElement(int[] nums) {
-        Stack<Integer> stack=new Stack<>();
-        for(int  i=nums.length-1;i>=0;i--){
-            if(!stack.isEmpty()){
-                if(stack.peek()>nums[i])  return i+1;
+        int h=nums.length-1;
+        int l=0;
+        while(l<h){
+            int mid=(h+l)/2;
+            if(nums[mid]<nums[mid+1]){
+                l=mid+1;
             }
-            stack.push(nums[i]);
+            else{
+                h=mid;
+            }
+            
         }
-        return 0;
+        return l;
     }
 }
