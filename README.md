@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0496-next-greater-element-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
