@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0792-binary-search) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1046-max-consecutive-ones-iii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0011-container-with-most-water) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2032-largest-odd-number-in-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -167,10 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0242-valid-anagram) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0169-majority-element) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## String Matching
 |  |
