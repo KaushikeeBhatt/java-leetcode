@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0217-contains-duplicate) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1013-fibonacci-number) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
