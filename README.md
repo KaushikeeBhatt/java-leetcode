@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0162-find-peak-element) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
