@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0217-contains-duplicate) |
 | [0324-wiggle-sort-ii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2032-largest-odd-number-in-string](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## String
