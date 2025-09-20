@@ -3,7 +3,7 @@ class Solution {
         //765 4321
         int n=nums.length;
         k=k%n;
-        if (k == 0) return;
+        //if (k == 0) return;
         reverse(nums,0,n-1);
         reverse(nums,0,k-1);
         reverse(nums,k,n-1);
