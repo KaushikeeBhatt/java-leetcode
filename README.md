@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1013-fibonacci-number) |
