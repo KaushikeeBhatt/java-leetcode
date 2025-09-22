@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0013-roman-to-integer) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
