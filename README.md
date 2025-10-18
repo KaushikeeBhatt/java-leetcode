@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0496-next-greater-element-i) |
@@ -292,4 +293,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1013-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
