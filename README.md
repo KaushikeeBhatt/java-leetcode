@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0461-hamming-distance) |
+| [1009-complement-of-base-10-integer](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2659-number-of-even-and-odd-bits](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 ## Two Pointers
