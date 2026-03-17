@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1046-max-consecutive-ones-iii](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1470-shuffle-the-array](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1470-shuffle-the-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
