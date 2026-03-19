@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1470-shuffle-the-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/KaushikeeBhatt/java-leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 ## Enumeration
 |  |
 | ------- |
